@@ -30,8 +30,8 @@ Motivated B-Tech student in Computer Engineering with a focus on Mobile Developm
 - **DoctorsAppointment**: Flutter, Dart
 - **ShoppingApp**: Flutter, Dart, Firebase
 - **MealApp**: Flutter, Dart, SQLFITE
-- **QuizeApp**: Flutter, Dart
-- **Clone Myntra**: Flutter, Dart
+- **ArtBox**: Flutter, Dart, Monster AI(API)
+- **Gemini Chat-Bot**: Flutter, Dart, Hive-Storage, Gemini API 
 - **DoctoreDiagnosis**: Java, OOPS
 - **ABCSOLUTION DB**: MySQL
 

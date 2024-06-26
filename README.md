@@ -15,7 +15,7 @@ Motivated B-Tech student in Computer Engineering with a focus on Mobile Developm
 **Indian Yoga Association, Delhi (Remote-Work)**  
 *Oct 2023 - Feb 2024*
 
-- Developed a Flutter-based mobile application for Android and iOS platforms.
+- Developed a Flutter-based mobile application for Android and IOS platforms.
 - Improved UI/UX design and implemented features like user authentication and push notifications.
 - Collaborated with team members to meet project deadlines.
 

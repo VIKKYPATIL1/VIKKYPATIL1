@@ -1,5 +1,66 @@
 💫 About Me:
-Chetan Kachave<br><br>- Location: Shirpur, MH, 425405<br>- Phone: 9359866034<br>- Email: chetanpatil662002@gmail.com<br>- LinkedIn: [Chetan Patil](https://www.linkedin.com/in/chetan-patil-79633a220)<br><br>## Summary<br>Motivated B-Tech student in Computer Engineering with a focus on Mobile Development and Data Management. Proficient in Java, Python, and Flutter, with expertise in Database Management, Web Development, and Problem-solving. Actively pursuing certifications in Flutter Development, MySQL, SQL, and Data Cleaning to enhance skills and contribute effectively to software projects.<br><br>## Experience<br>### Flutter Developer Intern<br>- Indian Yoga Association, Delhi (Remote-Work)<br>- Oct 2023 - Feb 2024<br>- Responsibilities:<br>  - Developed a Flutter-based mobile application for Android and iOS platforms.<br>  - Improved UI/UX design and implemented features like user authentication and push notifications.<br>  - Collaborated with team members to meet project deadlines.<br>- Achievements:<br>  - Completed internship with a certification.<br>  - Enhanced skills in Flutter, UI/UX design, and teamwork.<br>  <br>## Projects<br>**TrackLocation** : Python <br>**DoctorsAppointment** : Flutter,Dart<br>**ShoppingApp** : Flutter , Dart ,Firebase<br>**MealApp** : Flutter,Dart,SQLFITE <br>**QuizeApp** : Flutter,Dart <br>**Clone Myntra** : FLutter,Dart <br>**DoctoreDiagnosis** : java,OOPS <br>**ABCSOLUTION DB** : mysql <br>   <br><br>## Education<br>- Bachelor of Technology - BTech, Computer Engineering<br>  - SVKM's NMIMS Mukesh Patel School of Technology Management & Engineering<br>  - Sep 2021 - Sep 2025<br>- Higher Secondary Education - (HSC) - Science<br>  - R C Patel Junior College of Shirpur, Shirpur<br>  - Jun 2019 - May 2021<br>  - Grade: 90%<br>- Secondary School Certificate (SSC) - General Studies<br>  - P B M Municipal Higher Secondary School, Shirpur<br>  - Jun 2018 - 2019<br><br>## Skills<br>- Expert: Flutter Flow<br>- Intermediate: DBMS, MySQL, Firebase, MongoDB, Java, Python, Dart, Flutter, HTML, CSS, Android<br>- Basic: JavaScript, Angular, NodeJS, ExpressJS<br><br>## Licenses & Certifications<br>- Flutter Developer (2024) - Udemy - UC-840a5d44-d738-4680-8b7c-be52f91904fa<br>- Flutter Application Developer (2024) - Indian Yoga Association - IKD63342BN<br>- Android App Developer (2022) - TEACHNOOK - 1423485925<br>
+# Chetan Kachave
+
+- **Location:** Shirpur, MH, 425405
+- **Phone:** 9359866034
+- **Email:** chetanpatil662002@gmail.com
+- **LinkedIn:** [Chetan Patil](https://www.linkedin.com/in/chetan-patil-79633a220)
+
+## Summary
+Motivated B-Tech student in Computer Engineering with a focus on Mobile Development and Data Management. Proficient in Java, Python, and Flutter, with expertise in Database Management, Web Development, and Problem-solving. Actively pursuing certifications in Flutter Development, MySQL, SQL, and Data Cleaning to enhance skills and contribute effectively to software projects.
+
+## Experience
+
+### Flutter Developer Intern
+**Indian Yoga Association, Delhi (Remote-Work)**  
+*Oct 2023 - Feb 2024*
+
+- Developed a Flutter-based mobile application for Android and iOS platforms.
+- Improved UI/UX design and implemented features like user authentication and push notifications.
+- Collaborated with team members to meet project deadlines.
+
+**Achievements:**
+
+- Completed internship with a certification.
+- Enhanced skills in Flutter, UI/UX design, and teamwork.
+
+## Projects
+
+- **TrackLocation**: Python
+- **DoctorsAppointment**: Flutter, Dart
+- **ShoppingApp**: Flutter, Dart, Firebase
+- **MealApp**: Flutter, Dart, SQLFITE
+- **QuizeApp**: Flutter, Dart
+- **Clone Myntra**: Flutter, Dart
+- **DoctoreDiagnosis**: Java, OOPS
+- **ABCSOLUTION DB**: MySQL
+
+## Education
+
+- **Bachelor of Technology - BTech, Computer Engineering**  
+  SVKM's NMIMS Mukesh Patel School of Technology Management & Engineering  
+  *Sep 2021 - Sep 2025*
+
+- **Higher Secondary Education - (HSC) - Science**  
+  R C Patel Junior College of Shirpur, Shirpur  
+  *Jun 2019 - May 2021*  
+  **Grade:** 90%
+
+- **Secondary School Certificate (SSC) - General Studies**  
+  P B M Municipal Higher Secondary School, Shirpur  
+  *Jun 2018 - 2019*
+
+## Skills
+
+- **Expert:** Flutter Flow
+- **Intermediate:** DBMS, MySQL, Firebase, MongoDB, Java, Python, Dart, Flutter, HTML, CSS, Android
+- **Basic:** JavaScript, Angular, NodeJS, ExpressJS
+
+## Licenses & Certifications
+
+- **Flutter Developer (2024)** - Udemy - UC-840a5d44-d738-4680-8b7c-be52f91904fa
+- **Flutter Application Developer (2024)** - Indian Yoga Association - IKD63342BN
+- **Android App Developer (2022)** - TEACHNOOK - 1423485925
 
 
 🌐 Socials:
